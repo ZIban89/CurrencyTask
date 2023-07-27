@@ -9,4 +9,10 @@ class CurrencyApp : Application() {
         super.onCreate()
         CurrencyComponent.createAndGet(this)
     }
+
+    fun x(){
+        if (true)
+            println(10)
+            else println(1)
+    }
 }
