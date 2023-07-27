@@ -15,4 +15,9 @@ class CurrencyApp : Application() {
             println(10)
             else println(1)
     }
+    fun yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy(){
+        if (true)
+            println(10)
+        else println(1)
+    }
 }
